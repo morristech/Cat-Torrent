@@ -27,7 +27,7 @@ import org.acra.ReportingInteractionMode;
 import org.acra.annotation.ReportsCrashes;
 import org.proninyaroslav.libretorrent.core.utils.Utils;
 
-@ReportsCrashes(mailTo = "proninyaroslav@mail.ru",
+@ReportsCrashes(mailTo = "contact.arsalanengr@gmail.com",
                 mode = ReportingInteractionMode.DIALOG,
                 reportDialogClass = ErrorReportActivity.class)
 
